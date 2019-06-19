@@ -1,4 +1,4 @@
-FROM andyrbell/mountebank:2.0.0
+FROM andyrbell/mountebank:2.1.0
 
 EXPOSE 4546 5555
 
